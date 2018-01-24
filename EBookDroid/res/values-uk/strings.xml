@@ -1,15 +1,15 @@
 <resources>
    <string name="apply">Застосувати</string>
-   <string name="auto_fit">Авто вирівнювання</string>
+   <string name="auto_fit">Автовирівнювання</string>
    <string name="automatic">Автоматична</string>
    <string name="autor_ivan_ivanenko">Автор: Іван Іваненко</string>
    <string name="black">Темна</string>
-   <string name="book_is_loading_or_no_content">Книга завантажується або немає змісту</string>
+   <string name="book_is_loading_or_no_content">Книга завантажується, або немає змісту</string>
    <string name="bookmark_on_page_">Закладка на сторінку</string>
    <string name="bookmarks">Закладки</string>
    <string name="brightness">Яскравість</string>
    <string name="browse">Перегляд</string>
-   <string name="buy">Купити</string>
+   <string name="buy">Придбати</string>
    <string name="cancel">Скасувати</string>
    <string name="choose_">Виберіть...</string>
    <string name="close">Закрити</string>
@@ -19,9 +19,9 @@
    <string name="content_of_book">Зміст книги</string>
    <string name="crop_white_borders">Обрізати білі краї</string>
    <string name="delete">Видалити</string>
-   <string name="delete_book_">Видалити файл з SD карти?</string>
+   <string name="delete_book_">Видалити файл з SD-карти?</string>
    <string name="dialog_color_picker">HEX значення кольору</string>
-   <string name="Document_is_corrupted">Документ пошкоджений</string>
+   <string name="Document_is_corrupted">Документ пошкоджено</string>
    <string name="downloading">Завантаження</string>
    <string name="edit">Редагувати</string>
    <string name="enable_swipe_gesture_with_lock">Вкл. гортання жестами коли замок</string>
@@ -122,7 +122,7 @@
    <string name="ok">OK</string>
    <string name="there_are_no_email_applications_installed_">Додаток для роботи з E-mail не встановлено</string>
    <string name="send_mail">Написати листа</string>
-   <string name="remember_dictionary">Запам\'ятати Словник</string>
+   <string name="remember_dictionary">Запам'ятати Словник</string>
    <string name="support">Підтримка</string>
    <string name="web">Web</string>
    <string name="pro_pdf_description_ads_free">Програма без реклами</string>
@@ -175,7 +175,7 @@
    <string name="font_size">Розмір шрифту</string>
    <string name="performance_settings">Параметри швидкодії</string>
    <string name="page_quality">Якість сторінок</string>
-   <string name="pages_in_memory">Сторінок в пам\'яті</string>
+   <string name="pages_in_memory">Сторінок в пам'яті</string>
    <string name="horizontal">Горизонтальний</string>
    <string name="vertical">Вертикальний</string>
    <string name="direction_of_scrolling">Напрямок прокручування</string>
@@ -184,7 +184,7 @@
    <string name="more">Більше</string>
    <string name="font_name">Шрифт</string>
    <string name="tap_zone_size">Розмір зон гортання</string>
-   <string name="size_of_allocated_memory">Розмір виділеної пам\'яті</string>
+   <string name="size_of_allocated_memory">Розмір виділеної пам'яті</string>
    <string name="display_settings">Налаштування дисплею</string>
    <string name="margin_width">Розмір відступів</string>
    <string name="top">Верхня сторона</string>
@@ -196,7 +196,7 @@
    <string name="paragraph">Пункт</string>
    <string name="simple_scroll_animation">Показувати анімацію гортання</string>
    <string name="image_format">Формат зображення</string>
-   <string name="more_reading_settings">Додаткові настройки для читання</string>
+   <string name="more_reading_settings">Додаткові налаштування для читання</string>
    <string name="empty_line">Порожній рядок</string>
    <string name="apply_styles_from_the_document">Застосувати стилі з документа</string>
    <string name="customize_background_color">Налаштування кольору фону</string>
@@ -246,7 +246,7 @@
    <string name="musician">Музикант</string>
    <string name="borders_and_shadow_around_the_book_cover">Відображати межі і тіні</string>
    <string name="by_path">Шлях до файлу</string>
-   <string name="by_file_name">Ім\'я файлу</string>
+   <string name="by_file_name">Ім'я файлу</string>
    <string name="by_title">Назва книги</string>
    <string name="by_author">Автор книги</string>
    <string name="by_series">Серія</string>
@@ -295,7 +295,7 @@
    <string name="incorrect_value">Некоректне значення</string>
    <string name="search_in_the_subfolders">Пошук у вкладених папках</string>
    <string name="document_converter_online_">Онлайн-конвертер файлів</string>
-   <string name="in_the_author_s_name_first_the_surname">Спочатку прізвище, потім ім\'я автора</string>
+   <string name="in_the_author_s_name_first_the_surname">Спочатку прізвище, потім ім'я автора</string>
    <string name="remind_about_rest_every">Відпочинок кожні</string>
    <string name="minutes">Хвилин</string>
    <string name="seconds">Секунд</string>
@@ -305,7 +305,7 @@
    <string name="show_bottom_panel">Показати нижню панель</string>
    <string name="interval_sec_">Інтервал (сек)</string>
    <string name="library_settings">Налаштування бібліотеки</string>
-   <string name="by_name">Ім\'я</string>
+   <string name="by_name">Ім'я</string>
    <string name="opening_the_last_book_when_the_application_starts">Відкривати останню книгу після запуску додатка</string>
    <string name="links_color_day">Колір посилання (день)</string>
    <string name="links_color_night">Колір посилання (ніч)</string>
@@ -338,10 +338,10 @@
    <string name="add_network_catalog">Додати мережевий каталог</string>
    <string name="do_you_want_to_delete_">Ви дійсно хочете видалити?</string>
    <string name="network">Мережа</string>
-   <string name="name">Ім\'я</string>
+   <string name="name">Ім'я</string>
    <string name="description">Опис</string>
    <string name="authentication_required">Необхідна аутентифікація</string>
-   <string name="user_name">Ім\'я користувача</string>
+   <string name="user_name">Ім'я користувача</string>
    <string name="password">Пароль</string>
    <string name="what_is_the_opds_online_catalog_">Що таке онлайн-каталог OPDS?</string>
    <string name="books">Книжки</string>
@@ -352,7 +352,7 @@
    <string name="one_page">Одна сторінка</string>
    <string name="two_pages">Дві сторінки</string>
    <string name="half_page">Половина сторінки</string>
-   <string name="trim_borders">Обрізати кордони</string>
+   <string name="trim_borders">Обрізати межі/string>
    <string name="stop_reading_timer_">Зупинити читання через</string>
    <string name="two_pages_cover">Обкладинка, дві сторінки</string>
    <string name="enhancements_for_oled_display">Заповнити простір навколо сторінки чорним кольором (AMOLED-адаптація)</string>
@@ -363,11 +363,11 @@
    <string name="cd_sort_results">Сортувати результат</string>
    <string name="cd_sort_order">Порядок сортування</string>
    <string name="cd_update_search_search_for_new_books_on_sd_card">Оновити пошук, пошук нових книжок на SD-карті</string>
-   <string name="cd_show_results_as_a_list_or_grid">Показати результати як список або сітку</string>
+   <string name="cd_show_results_as_a_list_or_grid">Показати результати як список, або сітку</string>
    <string name="cd_return_to_the_parent_folder">Повернутися до батьківської теки</string>
    <string name="cd_back_to_sd_card">Повернутися на карту SD</string>
    <string name="cd_clear_all">Очистити все</string>
-   <string name="cd_search_in_bookmarks">Пошук у закладок</string>
+   <string name="cd_search_in_bookmarks">Пошук у закладках</string>
    <string name="cd_export">Експорт</string>
    <string name="cd_import">Імпортувати</string>
    <string name="cd_back_to_parent">Повернутися до батьківського</string>
@@ -404,8 +404,8 @@
    <string name="opening_book_with_losed_lock">Завжди блокувати переміщення сторінок при відкриванні PDF/DJVU</string>
    <string name="opening_book_with_cropped_borders">Автоматично обрізати пусті поля при відкриванні PDF/DJVU</string>
    <string name="do_you_want_to_clear_everything_">Ви дійсно хочете все очистити?</string>
-   <string name="restore_defaults_full">Ви хочете відновити значення за замовчуванням?</string>
-   <string name="restore_defaults_short">Відновити значення за замовчуванням</string>
+   <string name="restore_defaults_full">Ви хочете відновити значення за умовчанням?</string>
+   <string name="restore_defaults_short">Відновити значення за умовчанням</string>
    <string name="heading_and_subheadings">Заголовки та підзаголовки</string>
    <string name="headings_only">Тільки заголовки</string>
    <string name="genre">Жанр</string>
@@ -423,10 +423,10 @@
    <string name="portrait_180">Портретна (180)</string>
    <string name="full_list_of_changes_with_images_web_pdf_">Повний список змін з зображеннями (веб, PDF)</string>
    <string name="select_the_reading_mode">Виберіть...</string>
-   <string name="remember_choice">Запам\'ятати вибір</string>
+   <string name="remember_choice">Запам'ятати вибір</string>
    <string name="formatted_text">Відформатований текст (псевдографіка)</string>
    <string name="continuous_text">Безперервний текст (без розриву рядків)</string>
-   <string name="remember_reading_mode">Запам\'ятати режим читання</string>
+   <string name="remember_reading_mode">Запам'ятати режим читання</string>
    <string name="background_color_on_images_the_same_as_page_background">Використовувати особливий алгоритм налаштування кольорів шрифту та фону (для PDF/DJVU)</string>
    <string name="block_page_movement_horizontally">Блокувати зсування сторінки</string>
    <string name="search_history_and_autocomplete">Історія пошуку та автозаповнення</string>
@@ -464,7 +464,7 @@
    <string name="request_a_password_when_the_application_starts">Запит на пароль після запуску програми</string>
    <string name="incorrect_password">Неправильний пароль</string>
    <string name="repeat_password">Повторіть пароль</string>
-   <string name="internal_storage">Внутрішня пам\'ять</string>
+   <string name="internal_storage">Внутрішня пам'ять</string>
    <string name="the_page_is_clipped_the_text_selection_does_not_work">Сторінка обрізана, вибір тексту не працює</string>
    <string name="title">Назва</string>
    <string name="subject">Тема</string>
